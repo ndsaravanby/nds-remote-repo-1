@@ -1,3 +1,5 @@
 ramanujan-maths
 cvraman-physics
+ramanujan-trichy
+cvraman-iisc-bangalore
 
